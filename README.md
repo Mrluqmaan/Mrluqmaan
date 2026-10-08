@@ -18,7 +18,7 @@ understanding how software can be developed, deployed and improved.
  Web application development
  Research publication in emergency route optimization
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages
 Python · Kotlin · Java · SQL · HTML · CSS · JavaScript
